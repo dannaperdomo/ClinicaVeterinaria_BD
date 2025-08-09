@@ -22,7 +22,7 @@ Este proyecto consiste en el diseño e implementación de una base de datos comp
 ___
 
 
-### Integrantes
+### Integrantes 👨‍👩‍👧‍👦
 1. *Danna Suazo*
 2. *Danna Perdomo*
 3. *Lizania Rodríguez*
@@ -35,3 +35,4 @@ ___
 
 >[NOTE]
 >Este proyecto es totalmente ficticio. 
+
