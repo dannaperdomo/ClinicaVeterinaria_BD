@@ -106,4 +106,4 @@ CREATE TABLE tratamientos (
     fecha_aplicacion TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     FOREIGN KEY (id_consulta) REFERENCES consultas(id_consulta),
     FOREIGN KEY (id_servicio) REFERENCES servicios(id_servicio)
-);
+); 
