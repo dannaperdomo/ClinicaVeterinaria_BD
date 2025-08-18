@@ -134,6 +134,6 @@ INSERT INTO tratamientos (id_consulta, id_servicio, cantidad, precio_unitario, i
 
 -- Consulta 13: Control cardíaco
 (13, 1, 1, 600.00, 'Consulta cardiológica de seguimiento'),
-(13, 11, 1, 350.00, 'ECG de control');
+(13, 11, 1, 350.00, 'ECG de control ');
 
 
