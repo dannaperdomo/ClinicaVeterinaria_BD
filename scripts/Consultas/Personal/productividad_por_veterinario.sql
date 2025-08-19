@@ -1,7 +1,7 @@
 SELECT 
     CONCAT(v.nombre, ' ', v.apellido) AS veterinario,
     e.nombre AS especialidad,
-    COUNT(con,costo_consulta) AS ingresos_generados
+    COUNT(con.costo_consulta) AS ingresos_generados
 FROM veterinarios v
 JOIN especialidades e ON v.id_especialidad = e.id_especialidad
 LEFT JOIN citas c ON v.id_veterinario = c.id_veterinario
