@@ -31,7 +31,11 @@ ___
 
 ___
 ### Enlace
-[Enlace a Supabase](https://supabase.com/dashboard/org/dkazepgrvyygniknqouj)
+[SupaBase](https://supabase.com/dashboard/project/ljghhmbabknwjsywyepe/database/schemas)
+
+
+### Esquema de BD
+![Esquema] (<supabase-schema-ljghhmbabknwjsywyepe (2).png>)
 
 >[NOTE]
 >Este proyecto es totalmente ficticio. 
