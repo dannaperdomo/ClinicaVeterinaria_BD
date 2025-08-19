@@ -35,7 +35,7 @@ ___
 
 
 ### Esquema de BD
-![Esquema] (<supabase-schema-ljghhmbabknwjsywyepe (2).png>)
+![Esquema de BD](Esquema.png)
 
 >[NOTE]
 >Este proyecto es totalmente ficticio. 
