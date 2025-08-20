@@ -25,9 +25,12 @@ Este proyecto consiste en el diseño e implementación de una base de datos comp
  5. Isaac Mejía   
  
  ### Enlace 
- [SupaBase](https://supabase.com/dashboard/project/ljghhmbabknwjsywyepe/database/schemas)   ### Esquema de BD ![Esquema de BD](Esquema.png)  
+ [SupaBase](https://supabase.com/dashboard/project/ljghhmbabknwjsywyepe/database/schemas)   
  
- ## Diagrama ED [dbdiagram](https://dbdiagram.io/d/Diagrama-ER-Red-social-6850de543cc77757c821e08a)   
+ ### Esquema de BD ![Esquema de BD](Esquema.png)  
  
-  >[NOTE] >Este proyecto es totalmente ficticio.
+ ## Diagrama ED 
+ [dbdiagram](https://dbdiagram.io/d/Diagrama-ER-Red-social-6850de543cc77757c821e08a)   
+ 
+  >[NOTE] Este proyecto es totalmente ficticio.
 
