@@ -24,9 +24,7 @@ Este proyecto consiste en el diseño e implementación de una base de datos comp
  4. Carlos Castañeda 
  5. Isaac Mejía   
  
- ### Enlace 
- [SupaBase](https://supabase.com/dashboard/project/ljghhmbabknwjsywyepe/database/schemas)   
- 
+
  ### Esquema de BD ![Esquema de BD](Esquema.png)  
  
  ## Diagrama ED 
